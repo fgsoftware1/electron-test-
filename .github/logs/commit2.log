@@ -1,0 +1,8 @@
+commit 06086bc630cde6b66b9a465b527c49e38bbed263
+Merge: f9c6ffb 93bdf93
+Author: fgsoftware1 <60277618+fgsoftware1@users.noreply.github.com>
+Date:   Sun May 17 14:58:51 2020 +0100
+
+    Merge pull request #1 from fgsoftware1/circleci-project-setup
+    
+    Add .circleci/config.yml

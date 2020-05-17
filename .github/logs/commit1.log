@@ -1,0 +1,5 @@
+commit 93bdf93c62898690945319d655665f36ace018be (origin/circleci-project-setup)
+Author: fgsoftware1 <60277618+fgsoftware1@users.noreply.github.com>
+Date:   Sun May 17 14:52:02 2020 +0100
+
+    Add .circleci/config.yml
