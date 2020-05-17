@@ -1,0 +1,16 @@
+{
+  "name": "electron-test-",
+  "version": "1.0.0",
+  "description": "[![CircleCI](https://circleci.com/gh/fgsoftware1/electron-test-/tree/master.svg?style=svg)](https://circleci.com/gh/fgsoftware1/electron-test-/tree/master) [![Build Status](https://travis-ci.com/fgsoftware1/electron-test-.svg?branch=master)](https://travis-ci.com/fgsoftware1/electron-test-)",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": "git+https://github.com/fgsoftware1/electron-test-.git",
+  "author": "Gabriel Aguiar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fgsoftware1/electron-test-/issues"
+  },
+  "homepage": "https://github.com/fgsoftware1/electron-test-#readme"
+}
